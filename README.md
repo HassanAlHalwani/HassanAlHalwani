@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HassanAlHalwani
+- 👀 I’m interested in Java ,kotlin,Micro C , Assembly ,android developing, #c and c++
+- 🌱 I’m currently learning computer engineering
